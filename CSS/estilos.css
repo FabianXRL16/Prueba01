@@ -1,0 +1,28 @@
+body{
+    background-color: darkgrey;
+}
+header{
+    background-color: dimgrey;
+}
+h1{
+    font-style: italic;
+    text-align-last: center;
+}
+.menu{
+    width: 100%;
+    background-color: floralwhite;
+}
+.menu ul{
+    width: 1200px;
+    margin: 0 auto;
+}
+.menu ul li{
+    display: block;
+    width: 25%;
+    float: left;
+    margin-top: 15 px;
+    margin-bottom: 15 px;
+}
+.menu ul li a{
+    text-decoration: rgb(68, 68, 68);
+}
